@@ -75,6 +75,7 @@ alertView.transitionStyle = SIAlertViewTransitionStyleBounce;
 
 [alertView show];
 ```
+我是the one
 
 ## Credits
 
